@@ -1,0 +1,6 @@
+title: DeFlock Blog
+description: Blog about surveillance, weird kiosks, and more
+author: NullPlate
+baseurl: "" # leave blank if using a custom domain
+url: "https://blog.deflock.me"
+theme: minima
