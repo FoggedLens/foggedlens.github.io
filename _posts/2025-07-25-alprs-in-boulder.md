@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Mass Surveillance in Boulder"
-description: Police Department spreads misinformation regarding Flock in Boulder
-date:   2025-07-27 12:07:36 -0600
+excerpt: Boulder PD spreads misinformation regarding Flock in Boulder
+date:   2025-07-27 19:07:36 -0600
 related: false
 ---
 
