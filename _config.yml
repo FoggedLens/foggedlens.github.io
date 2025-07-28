@@ -114,8 +114,8 @@ analytics:
 author:
   name             : "Will Freeman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer, Creator of DeFlock, and privacy advocate."
-  location         : "Boulder, Colorado, USA"
+  bio              : "Creator of DeFlock and privacy advocate."
+  location         : "Boulder, Colorado"
   # email            : "contact@deflock.me"
   links:
     - label: "contact@deflock.me"
