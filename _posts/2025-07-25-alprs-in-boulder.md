@@ -10,7 +10,7 @@ related: false
 
 ## What's Happening?
 
-Since early 2022, Boulder has been recording our movements and sharing it nationwide. When Boulder PD first signed a contract with [Flock Group](https://en.wikipedia.org/wiki/Flock_Safety), a surveillance company, they started collecting data on every vehicle traveling through Boulder using automated license plate readers (ALPRs). These devices capture just about every identifying feature of your vehicle (e.g. bumper stickers, dents, racks, vehicle type, color, etc.) and store them in a massive national database, which organizations nationwide can search for any reason. The agencies conducting these searches don't need a warrant, probable cause, or even reasonable suspicion in order to search these cameras. All that's required is a text field called "reason".
+Since early 2022, Boulder has been recording our movements and sharing it nationwide. When Boulder PD first signed a contract with [Flock Group](https://en.wikipedia.org/wiki/Flock_Safety), a surveillance company, they started collecting data on every vehicle traveling through Boulder using automated license plate readers (ALPRs). These devices capture just about every identifying feature of your vehicle (e.g. bumper stickers, dents, racks, vehicle type, color, etc.) and store them in a massive national database, which organizations nationwide can search for any reason. The agencies conducting these searches don't need a warrant, probable cause, or even reasonable suspicion in order to search our cameras. All that's required is a text field called "reason".
 
 <figure>
   <img src="/assets/images/boulder-search-reasons.png" alt="Actual reasons used for searches by Boulder PD" />
@@ -22,7 +22,7 @@ Since early 2022, Boulder has been recording our movements and sharing it nation
   <figcaption>Flock's search interface, showing just how easy it is to conduct a warrantless search nationwide</figcaption>
 </figure>
 
-There are [over of these 40 cameras in Boulder](https://deflock.me/map#map=14/40.013351/-105.259409), strategically placed to record the movements of just about everyone traveling through the city, and the same is true about neighboring cities such as Longmont, Lafayette, Louisville, Superior, and even rural Boulder County.
+There are [over of these 40 cameras in Boulder](https://deflock.me/map#map=14/40.013351/-105.259409), strategically placed to record the movements of just about everyone traveling through our city, and the same is true about neighboring cities such as Longmont, Lafayette, Louisville, Superior, and even rural Boulder County.
 
 <figure>
   <img src="/assets/images/flock-map.png" alt="Map of Flock cameras in Boulder" />
@@ -88,7 +88,7 @@ Flock has gotten a lot of bad press lately, mostly relating to their cameras bei
   <figcaption>Excerpt from Flock's user manual, showing the national network checkbox which is excluded from their Transparency Portal.</figcaption>
 </figure>
 
-Let's say we take ourselves off the national network by unchecking that checkbox. There's no way federal agencies could access our cameras, right? Nope.
+Let's say we take ourselves off the national network by unchecking that checkbox. Is there any way federal agencies could still access our cameras? Yes, and it's quite common.
 
 Loveland Police Department [admitted recently to sharing their account with the ATF](https://www.9news.com/article/news/local/next/loveland-police-colorado-ice-search/73-ec0ec084-e8c6-4c2e-a99b-68bceeedcaa1), who in turn performed searches on behalf of ICE. Similarly, Denver PD has several FBI employees with logins on its Flock system, according to Denver council member Sarah Parady.
 
@@ -137,6 +137,10 @@ You can <a href="mailto:adamst@bouldercolorado.gov,benjaminm@bouldercolorado.gov
 Addressing our city leaders *in-person* is the most effective way for them to hear your concerns and take them seriously. If possible, you can [sign up](https://bouldercolorado.gov/services/participate-city-council-meetings) before the next City Council meeting for an Open Comment slot.
 
 Most people who speak during public comment are not professional speakers, so you don't need much prepared other than your concerns. There is a 2-3 minute time limit, so keep your comments brief.
+
+### 4. Contact the Police Oversight Panel
+
+Boulder has a Police Oversight Panel, whose job it is to "increase community involvement in police oversight." While they do not have direct control over the police department's policies, they can make sure our concerns are heard. <a href="mailto:PoliceOversightPanel@bouldercolorado.gov">Email the Police Oversight Panel.</a>
 
 ## Links & Downloads
 - Last 3,600 searches performed by Boulder PD on the national network: [Download CSV](/assets/docs/boulder-co-pd.csv)
