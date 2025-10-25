@@ -11,10 +11,6 @@ author:
   bio: Creator of the DeFlock mobile app
 ---
 
-# DeFlock Mobile App User Guide
-
-# DeFlock Mobile App User Guide
-
 ## Table of Contents
 
 - [Introduction: Why Map Surveillance?](#introduction-why-map-surveillance)
