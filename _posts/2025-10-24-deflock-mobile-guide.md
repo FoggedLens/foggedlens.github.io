@@ -5,6 +5,7 @@ permalink: /deflock-mobile-guide/
 excerpt: Learn how to use our mobile app to find and report cameras
 date:   2025-10-24 19:07:36 -0600
 related: false
+classes: wide
 
 author:
   name: Bob
